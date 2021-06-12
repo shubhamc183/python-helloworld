@@ -1,2 +1,2 @@
-# python-helloworld
-Learning GH Actions using simple Python app
+# Python Helloworld
+Learning GH Actions using simple Python app!
